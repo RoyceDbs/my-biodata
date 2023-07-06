@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Biodata Roy</title>
+<style>
+.wrap{
+background-color:rgba(255,255,255,0.7);
+width: 800px;
+color:black;
+margin: 20px auto;
+padding:15px;
+}
+</style>
+</head>
+<body style="background: url(background.jpg);background-size:cover;background-attachment:fixed;">
+<div class="wrap">
+<h1 class="class" align="center">BIODATA DIRI</h1><hr/ align="center" width="25%" style="border-top: 3px double #8c8b8b;">
+<table>
+<tr><td rowspan="10" width="100px">
+<img src="FotoRoy.jpg" width="200px"style="display: block;border-radius: 50%;border-color:white;margin-right:30px" border="2px" ></td></tr>
+<tr><td><b>Nama</b></td><td>:</td> <td>Roy Ferdiansyah Mahendra Hermawan</td></tr>
+<tr><td><b>NIM</b></td><td>:</td> <td>22083000167</td></td></tr>
+<tr><td><b>Alamat</b></td><td>:</td> <td>Jl.Mojoasri No.202</td></tr>
+<tr><td><b>TTL</b></td><td>:</td> <td>Batu, 26 Maret 2005</td></tr>
+<tr><td><b>Email</b></td><td>:</td> <td>roy26032005@gmail.com</td></tr>
+<tr><td><b>IG</b></td><td>:</td> <td>@roy_ferdiansyah26</td></tr>
+<tr><td><b>Hobi</b></td><td>:</td> <td>Bermain Game, Edit, Travelling</td></tr>
+<tr><td><b>Cita-cita</b></td><td>:</td> <td>PNS</td></tr></table>
+<tr><td><b>Motto</b></td><td>:</td> <td>"Only you can change your life. Nobody else can do it for you " Orang lain gak akan bisa paham struggle dan masa sulitnya kita yang mereka ingin tau hanya bagian succes stories. Berjuanglah untuk diri sendiri walaupun gak ada yang tepuk tangan. Kelak diri kita di masa depan akan sangat bangga dengan apa yang kita perjuangkan hari ini.</td></tr>
+<table>
+<h3>Riwayat Pendidikan</h3>
+<tr><td><b>SD</b></td><td>:</td> <td>SDN Mojorejo 2 Batu</td></tr>
+<tr><td><b>SMP</b></td><td>:</td> <td>SMPN 3 Batu</td></tr>
+<tr><td><b>SMK</b></td><td>:</td> <td>SMKN 3 Batu</td></tr></table>
+<div>
+</body>
+</html>
